@@ -1,0 +1,3 @@
+Ambos fazem a mesma coisa, que é escrever na tela " 1 2 3 4 " e após isso pausar o programa.
+Porém um usa o método comum, e o outro utiliza ponteiros pegando o endereço inicial da matriz e navegando
+por ela através de ponteiros.
